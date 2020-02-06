@@ -7,4 +7,14 @@ public class Photo
 	{
 		this.tags = tags;
 	}
+	
+	public String[] getTags()
+	{
+		return tags;
+	}
+	
+	public int numTags()
+	{
+		return tags.length;
+	}
 }
