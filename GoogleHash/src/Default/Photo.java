@@ -1,8 +1,6 @@
 package Default;
 
-public class Main
+public class Photo
 {
 
 }
-
-
